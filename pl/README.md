@@ -1,8 +1,7 @@
 <!-- Version: 0.06 EN -->
 
 | <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a>
-| <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> | <a href="/de/">German</a>
-| <a href="/pl/">Polski</a> |
+| <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> | <a href="/de/">German</a> | <a href="/pl/">Polski</a> |
 
 ###### Zasady Przewodnie
 - Zaczynanie od tego co proste i następnie doskonalenie jest lepsze niż niezaczynanie wcale
